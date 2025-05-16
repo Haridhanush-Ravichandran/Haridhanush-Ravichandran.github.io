@@ -4,7 +4,7 @@ title:
 permalink: /projects/kaggle-cnn/
 ---
 
-#Deep Learning for Multi-Class Image Classification
+# Deep Learning for Multi-Class Image Classification
 
 This project was completed as part of a Kaggle competition organized by the university. The goal was to build a deep learning model to classify images into 20 categories.
 
