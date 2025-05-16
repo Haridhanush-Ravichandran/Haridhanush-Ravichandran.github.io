@@ -21,7 +21,7 @@ This project was completed as part of a Kaggle competition organized by the univ
 - **Input shape**: [3x40x40]
 
 ## 📁 Notebook
-Click to view the full training and evaluation notebook:
+Click to download the full training and evaluation notebook:
 
 👉 [kaggle-challenge1-final.ipynb](./kaggle-challenge1-final.ipynb)
 
