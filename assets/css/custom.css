@@ -1,12 +1,20 @@
-/* Smaller page titles */
+/* Make page title use full width */
 .page-title,
 h1.page-title,
 .post-title,
 h1.post-title {
   font-size: 1.8rem !important;
+  text-align: left !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  margin-left: 0 !important;
 }
-
 /* Smaller home title (index page) */
 #header .header-title {
   font-size: 2rem !important;
+}
+/* Remove container limits for page content */
+.page-content {
+  max-width: 100% !important;
+  padding: 0 2rem;
 }
