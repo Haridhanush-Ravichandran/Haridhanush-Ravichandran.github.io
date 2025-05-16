@@ -1,0 +1,12 @@
+/* Smaller page titles */
+.page-title,
+h1.page-title,
+.post-title,
+h1.post-title {
+  font-size: 1.8rem !important;
+}
+
+/* Smaller home title (index page) */
+#header .header-title {
+  font-size: 2rem !important;
+}
