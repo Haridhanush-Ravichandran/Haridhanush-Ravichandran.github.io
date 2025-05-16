@@ -43,3 +43,4 @@ remote_theme: daattali/beautiful-jekyll@master
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+custom-css: "assets/css/custom.css"
