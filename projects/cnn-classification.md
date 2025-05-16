@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deep Learning for Multi-Class Image Classification
+title: Multi-Class Image Classification
 permalink: /projects/kaggle-cnn/
 ---
 
