@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multi-Class Image Classification
-permalink: /projects/kaggle-cnn/
+permalink: /projects/cnn-classification/
 ---
 
 This project was completed as part of a Kaggle competition organized by the university. The goal was to build a deep learning model to classify images into 20 categories.
