@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+permalink: /aboutme/
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! I'm **Haridhanush Ravichandran**, currently pursuing an MS in Data Science at the University of Padova (2024–2026).  
+I'm passionate about Deep Learning, NLP, Knowledge Representation and Reasoning, and Symbolic Learning.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Tools I’ve worked with include PyTorch, Tableau, and Power BI.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+This portfolio showcases my academic and personal projects, with more coming soon!
