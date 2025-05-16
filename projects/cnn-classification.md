@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Image Classification using custom CNN
+title: Custom CNN model
 permalink: /projects/cnn-classification/
 ---
 
