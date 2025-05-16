@@ -26,19 +26,6 @@ Click to view the full training and evaluation notebook:
 👉 [kaggle-challenge1-final.ipynb](./kaggle-challenge1-final.ipynb)
 
 ---
-## 🛠️ How to Run
-
-1. Clone the repo  
-   `git clone https://github.com/haridhanush/cnn-image-classification.git`
-
-2. Install dependencies  
-   `pip install torch numpy matplotlib`
-
-3. Run notebook  
-   Open `cnn-kaggle-classifier.ipynb` in Jupyter
-
-
----
 
 **Author**: Haridhanush Ravichandran  
 Master's in Data Science, University of Padova (2024–26)  
