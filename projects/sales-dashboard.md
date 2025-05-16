@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sales & Customer Dashboard — Tableau Public
+title: Sales & Customer Dashboard 
 permalink: /projects/sales-dashboard/
 ---
 
