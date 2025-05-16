@@ -39,7 +39,7 @@ footer-links-active:
 
 # --- Build settings ---
 markdown: kramdown
-theme: beautiful-jekyll
+remote_theme: daattali/beautiful-jekyll@master
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
