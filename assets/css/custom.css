@@ -1,20 +1,28 @@
-/* Make page title use full width */
+/* Force full-width layout for titles */
 .page-title,
 h1.page-title,
 .post-title,
 h1.post-title {
-  font-size: 1.8rem !important;
+  font-size: 2rem !important;
   text-align: left !important;
+  margin: 0 auto;
   width: 100% !important;
   max-width: 100% !important;
-  margin-left: 0 !important;
+  padding: 0 1rem;
+  word-break: break-word;
 }
-/* Smaller home title (index page) */
-#header .header-title {
-  font-size: 2rem !important;
-}
-/* Remove container limits for page content */
+
+/* Make main page container use full width */
 .page-content {
+  width: 100% !important;
   max-width: 100% !important;
   padding: 0 2rem;
+  box-sizing: border-box;
+}
+
+/* Override site wrapper width */
+.wrapper {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 1rem;
 }
