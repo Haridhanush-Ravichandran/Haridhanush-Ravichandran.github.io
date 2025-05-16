@@ -1,4 +1,10 @@
-# 📊 Sales & Customer Dashboard — Tableau Public
+---
+layout: page
+title: 
+permalink: /projects/sales-dashboard/
+---
+
+# Sales & Customer Dashboard — Tableau Public
 
 This repository documents an interactive Tableau dashboard I created to explore and visualize [domain - Sales & Customer].
 
