@@ -25,7 +25,7 @@ Explore some of the projects I’ve worked on. Click the ➝ arrow to see more d
 ---
 
 ## 🖼️ CNN Image Classification (Kaggle Challenge)  
-- **Description**: Developed a convolutional neural network for image recognition. Achieved **90%+ accuracy** on a Kaggle dataset.  
+- **Description**: Developed a convolutional neural network for image recognition into 20 categories.  
 - **Tech Stack**: Python, TensorFlow, Keras, Matplotlib  
 - **Details**: [View Project ➝](/projects/cnn-classification)  
 
