@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Sales & Customer Dashboard 
+title: "" 
 permalink: /projects/sales-dashboard/
 ---
+# Sales & Customer Dashboard
 
 This repository documents an interactive Tableau dashboard I created to explore and visualize [domain - Sales & Customer].
 
