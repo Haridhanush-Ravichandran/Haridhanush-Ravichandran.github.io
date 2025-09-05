@@ -14,15 +14,20 @@ permalink: /
 ---
 
 ## 🚀 Featured Projects  
+- **[Neuro-Symbolic Learning for MNIST Digit Relationships](projects/nesy)**
+  Developed a neuro-symbolic model on MNIST to combine deep learning with logical reasoning for learning and inferring digit relationships.
 
+-**[Weather Forecasting (Deep Learning Challenge)](projects/weather-forecast)**
+  Built a transformer-based deep learning model for time-series weather forecasting using historical meteorological data
+  
 - **[Image Classification (Kaggle Challenge)](projects/cnn-classification)**  
-  Built a CNN model that achieved 90%+ accuracy on image recognition.  
+  Developed and trained a convolutional neural network to classify images into 20 distinct categories for a university deep learning challenge.  
 
-- **[Text Sentiment Analyzer](projects/nlp-sentiment)**  
-  Developed a transformer-based model to classify emotions in text.  
+- **[HR Dashboard](projects/hr-dashboard)**  
+  Built an interactive Tableau dashboard to analyze and visualize Human Resource data.
 
-- **[Knowledge Graph Exploration](projects/krl-graph)**  
-  Designed a graph-based knowledge representation system for semantic reasoning.  
+- **[Sales and customers Dashboard](projects/sales-dashoard)**  
+  Designed an interactive Tableau dashboard to uncover insights into Sales and Customer behavior. 
 
 ---
 
@@ -34,9 +39,3 @@ permalink: /
 - **Other**: Git, Docker, Linux  
 
 ---
-
-## 🌐 Let’s Connect  
-
-- [GitHub](https://github.com/haridhanush-ravichandran)  
-- [LinkedIn](https://linkedin.com/in/haridhanush-ravichandran)  
-- 📧 [haridhanush.ravi@gmail.com](mailto:haridhanush.ravi@gmail.com)  
