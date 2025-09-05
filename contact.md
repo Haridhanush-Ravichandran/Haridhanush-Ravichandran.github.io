@@ -23,7 +23,7 @@ I’d love to connect! You can reach me through any of the channels below.
 
 Prefer sending a quick message? Use the form below:  
 
-<form action="https://formspree.io/f/your-form-id" method="POST">
+<form action="https://formspree.io/f/xblappkn" method="POST">
   <label>Your Name:</label><br>
   <input type="text" name="name" required><br><br>
 
@@ -37,5 +37,3 @@ Prefer sending a quick message? Use the form below:
 </form>
 
 ---
-
-💡 *Tip*: To make the contact form work, create a free account on [Formspree](https://formspree.io/), get your form ID, and replace `your-form-id` in the code.  
