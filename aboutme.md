@@ -21,11 +21,16 @@ Hi! I’m **Haridhanush Ravichandran**, a graduate student pursuing my **Master�
 ---
 ## 💻 Experience & Projects  
 
-I’ve worked on projects spanning computer vision, natural language processing, and data-driven systems:  
+My work explores computer vision, neuro-symbolic learning, and time-series forecasting:
 
-- 🖼️ **CNN Image Classifier** — Kaggle challenge model with 90% accuracy.  
-- 📝 **Sentiment Analysis** — NLP model using transformers for text classification.  
-- 🌐 **Knowledge Graph Exploration** — Built semantic reasoning models with graph-based learning.  
+- **🧠 Neuro-Symbolic Learning for MNIST Digit Relationships**  
+  Developed a neuro-symbolic model on MNIST that combines deep learning with logical reasoning to learn and infer digit relationships.  
+
+- **🌦️ Weather Forecasting (Deep Learning Challenge)**  
+  Built a transformer-based deep learning model for time-series weather forecasting using historical weather data.  
+
+- **🖼️ Image Classification (Kaggle Challenge)**  
+  Developed and trained a convolutional neural network to classify images into 20 distinct categories for a university deep learning challenge.
 
 I also enjoy participating in **Kaggle competitions** and **open-source contributions** to challenge myself and collaborate with the global AI community.  
 
