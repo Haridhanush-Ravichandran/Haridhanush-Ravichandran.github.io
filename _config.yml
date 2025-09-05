@@ -19,9 +19,6 @@ author:
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
-    - "CNN Classifier": "projects/cnn-classification"
-    - "Sales & Customer Dashboard": "projects/sales-dashboard"
-    - "HR Dashboard": "projects/hr-dashboard"
   CV: "assets/data/HaridhanushResume.pdf"
   Contact: "mailto:haridhanush.ravi@gmail.com"
 
