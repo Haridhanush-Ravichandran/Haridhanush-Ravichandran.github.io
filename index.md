@@ -24,7 +24,7 @@ permalink: /
 - **[HR Dashboard](projects/hr-dashboard)**  
   Built an interactive Tableau dashboard to analyze and visualize Human Resource data.
 
-- **[Sales and customers Dashboard](projects/sales-dashoard)**  
+- **[Sales and customers Dashboard](projects/sales-dashboard)**  
   Designed an interactive Tableau dashboard to uncover insights into Sales and Customer behavior. 
 
 ---
