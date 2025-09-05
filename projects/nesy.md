@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Neuro-Symbolic Learning for MNIST Digit Relationships"
 permalink: /projects/nesy/
 ---
 
