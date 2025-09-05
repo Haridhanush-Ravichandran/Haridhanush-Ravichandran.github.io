@@ -17,7 +17,8 @@ Welcome to my CV page. You can view my CV below or download it as a PDF.
 
 ## 📖 Preview  
 
-<embed src="assets/HaridhanushResume.pdf" width="100%" height="800px" type="application/pdf">
+<embed src="{{ '/assets/HaridhanushResume.pdf' | relative_url }}" width="100%" height="800px" type="application/pdf">
+
 
 ---
 
