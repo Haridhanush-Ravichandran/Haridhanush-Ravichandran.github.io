@@ -18,7 +18,7 @@ author:
 # --- Navbar links ---
 navbar-links:
   About Me: "aboutme"
-  Projects:
+  Projects: "projects"
     - "CNN Classifier": "projects/cnn-classification"
     - "Sales & Customer Dashboard": "projects/sales-dashboard"
     - "HR Dashboard": "projects/hr-dashboard"
