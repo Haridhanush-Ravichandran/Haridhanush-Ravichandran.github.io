@@ -4,9 +4,9 @@ title: About Me
 permalink: /aboutme/
 ---
 
-# 👋 Hi, I'm Haridhanush Ravichandran
+# About Me  
 
-🎓 I'm currently pursuing my **Master’s in Data Science** at the University of Padua (UNIPD), Italy (2024–2026).
+Hi! I’m **Haridhanush Ravichandran**, a graduate student pursuing my **Master’s in Data Science at the University of Padova (2024–26)**.
 
 💻 I completed my **Bachelor of Engineering in Computer Science** in India (2019–2023).
 
@@ -19,7 +19,23 @@ permalink: /aboutme/
 📈 I'm actively building projects to deepen my expertise in applied AI and real-world problem solving.
 
 ---
+## 💻 Experience & Projects  
 
+I’ve worked on projects spanning computer vision, natural language processing, and data-driven systems:  
+
+- 🖼️ **CNN Image Classifier** — Kaggle challenge model with 90% accuracy.  
+- 📝 **Sentiment Analysis** — NLP model using transformers for text classification.  
+- 🌐 **Knowledge Graph Exploration** — Built semantic reasoning models with graph-based learning.  
+
+I also enjoy participating in **Kaggle competitions** and **open-source contributions** to challenge myself and collaborate with the global AI community.  
+
+---
+
+## 📌 Interests  
+
+Outside academics, I enjoy reading about AI ethics, exploring new tech tools, and engaging in hackathons. I’m also keen on collaborating with researchers and industry professionals on AI-driven applications.  
+
+---
 
 ### 🧰 Tech Stack & Tools
 
