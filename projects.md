@@ -6,28 +6,36 @@ permalink: /projects/
 
 # 🚀 My Projects  
 
-Here are some of the projects I’ve worked on. Click on each project to see more details.  
+Explore some of the projects I’ve worked on. Click the ➝ arrow to see more details about each one.  
 
 ---
 
-## 🖼️ [CNN Image Classification (Kaggle Challenge)](/projects/cnn-classification)  
-A convolutional neural network that achieved **90%+ accuracy** on an image recognition task.  
-**Tech Stack**: Python, TensorFlow, Keras  
+## 🖼️ CNN Image Classification (Kaggle Challenge)  
+- **Description**: Developed a convolutional neural network for image recognition. Achieved **90%+ accuracy** on a Kaggle dataset.  
+- **Tech Stack**: Python, TensorFlow, Keras, Matplotlib  
+- **Details**: [View Project ➝](projects/cnn-classification)  
 
 ---
 
-## 📝 [NLP Sentiment Analyzer](/projects/nlp-sentiment)  
-Transformer-based sentiment analysis model for text classification.  
-**Tech Stack**: Python, Hugging Face, Scikit-learn  
+## 📝 NLP Sentiment Analyzer  
+- **Description**: Built a transformer-based sentiment analysis model to classify emotions in text.  
+- **Tech Stack**: Python, Hugging Face Transformers, Scikit-learn  
+- **Details**: [View Project ➝](projects/nlp-sentiment)  
 
 ---
 
-## 🌐 [Knowledge Graph Exploration](/projects/krl-graph)  
-Built a graph-based system for semantic reasoning and entity relationship analysis.  
-**Tech Stack**: Python, Neo4j, NetworkX  
+## 🌐 Knowledge Graph Exploration  
+- **Description**: Designed a knowledge graph system for semantic reasoning and entity relationships.  
+- **Tech Stack**: Python, Neo4j, NetworkX  
+- **Details**: [View Project ➝](projects/krl-graph)  
 
 ---
 
-## 📊 [Data Analysis Dashboard](/projects/data-dashboard)  
-An interactive dashboard for data visualization and insights.  
-**Tech Stack**: Python, Pandas, Plotly, Dash  
+## 📊 Data Analysis Dashboard  
+- **Description**: Created an interactive dashboard for data exploration and visualization.  
+- **Tech Stack**: Python, Pandas, Plotly, Dash  
+- **Details**: [View Project ➝](projects/data-dashboard)  
+
+---
+
+✨ More projects can be found on my [GitHub profile](https://github.com/haridhanush-ravichandran).  
