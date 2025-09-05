@@ -11,13 +11,13 @@ Welcome to my CV page. You can view my CV below or download it as a PDF.
 ---
 
 ## ⬇ Download  
-[**Download My CV (PDF)**](assets/data/HaridhanushResume.pdf)  
+[**Download My CV (PDF)**](assets/HaridhanushResume.pdf)  
 
 ---
 
 ## 📖 Preview  
 
-<embed src="assets/data/HaridhanushResume.pdf" width="100%" height="800px" type="application/pdf">
+<embed src="assets/HaridhanushResume.pdf" width="100%" height="800px" type="application/pdf">
 
 ---
 
@@ -25,7 +25,7 @@ Welcome to my CV page. You can view my CV below or download it as a PDF.
 
 ### 🎓 Education  
 - **M.Sc. in Data Science** — University of Padova *(2024–26)*  
-- **B.Sc. in [Your Undergraduate Degree]** — [Your University], [Year]  
+- **B.E. in [Your Undergraduate Degree]** — [Your University], [Year]  
 
 ### 💻 Skills  
 - **Languages**: Python, R, SQL  
