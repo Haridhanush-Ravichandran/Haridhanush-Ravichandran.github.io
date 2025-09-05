@@ -1,8 +1,9 @@
 ---
 layout: page
-title: HR Dashboard
+title: ""
 permalink: /projects/hr-dashboard/
 ---
+# HR Dashboard
 
 This repository documents an interactive Tableau dashboard I created to explore and visualize [domain - Human Resource ].
 
