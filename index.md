@@ -17,7 +17,7 @@ permalink: /
 - **[Neuro-Symbolic Learning for MNIST Digit Relationships](projects/nesy)**
   Developed a neuro-symbolic model on MNIST to combine deep learning with logical reasoning for learning and inferring digit relationships.
 
--**[Weather Forecasting (Deep Learning Challenge)](projects/weather-forecast)**
+- **[Weather Forecasting (Deep Learning Challenge)](projects/weather-forecast)**
   Built a transformer-based deep learning model for time-series weather forecasting using historical meteorological data
   
 - **[Image Classification (Kaggle Challenge)](projects/cnn-classification)**  
