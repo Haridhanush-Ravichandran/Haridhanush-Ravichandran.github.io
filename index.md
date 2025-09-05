@@ -9,8 +9,6 @@ permalink: /
 🎓 Master’s student in Data Science at the **University of Padova (2024–26)**.  
 💡 Exploring **Machine Learning, Deep Learning, NLP, and Knowledge Representation** to solve real-world problems .  
 
-[📂 View My Projects](projects/) | [📜 Download My CV](cv/) | [📧 Contact Me](mailto:haridhanush.ravi@gmail.com)  
-
 ---
 
 ## 🚀 Featured Projects  
