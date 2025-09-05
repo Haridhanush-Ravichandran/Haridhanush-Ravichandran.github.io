@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Weather Forecasting (Deep Learning Challenge)"
 permalink: /projects/weather-forecast/
 ---
 
