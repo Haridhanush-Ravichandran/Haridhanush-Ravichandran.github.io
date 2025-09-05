@@ -13,7 +13,7 @@ Here are some of the projects I’ve worked on. Each project includes a short de
 ## 🖼️ CNN Image Classification (Kaggle Challenge)  
 - **Description**: Developed a convolutional neural network for image recognition. Achieved **90%+ accuracy** on a Kaggle dataset.  
 - **Tech Stack**: Python, TensorFlow, Keras, Matplotlib  
-- **Links**: [Notebook](projects/cnn-classification) | [GitHub Repo](https://github.com/haridhanush-ravichandran)  
+- **Links**: [Notebook](projects/cnn-classification) | [GitHub Repo](https://github.com/Haridhanush-Ravichandran/CNN-image-classification)  
 
 ---
 
