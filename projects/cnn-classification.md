@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Custom CNN model
+title: ""
 permalink: /projects/cnn-classification/
 ---
-
+# Custom CNN Model
 This project was completed as part of a Kaggle competition organized by the university. The goal was to build a deep learning model to classify images into 20 categories.
 
 ## 📌 Highlights
