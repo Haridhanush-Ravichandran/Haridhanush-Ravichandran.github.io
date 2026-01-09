@@ -25,6 +25,15 @@ Click to download the full training and evaluation notebook:
 
 👉 [kaggle-challenge1-final.ipynb](./kaggle-challenge1-final.ipynb)
 
+## 📂 Links  
+- [GitHub Repo](https://github.com/haridhanush-ravichandran)
+
+
+[⬅ Previous Projects](/projects/weather-forecast)          [Next Project➡](/projects/hr-dashboard)
+
+[⬅⬅Back to All Projects](/projects)
+
+
 ---
 
 **Author**: Haridhanush Ravichandran  
@@ -32,8 +41,3 @@ Master's in Data Science, University of Padova (2024–26)
 📌 Interests: ML, DL, NLP,KRL
 
 ---
-
-[⬅ Previous Projects](/projects/weather-forecast)          [Next Project➡](/projects/hr-dashboard)
-
-[⬅⬅Back to All Projects](/projects)
-
