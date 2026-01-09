@@ -21,8 +21,7 @@ Developed a neuro-symbolic model on the MNIST dataset that combines **deep learn
 - Showed how neuro-symbolic learning can improve explainability in AI.  
 
 ## 📂 Links  
-- [GitHub Repo](https://github.com/haridhanush-ravichandran)  
-- [Notebook/Demo](#)  
+- [GitHub Repo](https://github.com/haridhanush-ravichandran) 
 
 ---
 
