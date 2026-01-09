@@ -25,4 +25,4 @@ Developed a neuro-symbolic model on the MNIST dataset that combines **deep learn
 
 ---
 
-[⬅ Back to Projects](/projects/)
+[⬅ Back to All Projects](/projects/)        [Next Project ➡]()/projects/weather-forecast.md)
