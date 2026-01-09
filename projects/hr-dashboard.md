@@ -78,7 +78,6 @@ MSc Data Science, University of Padova (2024–2026)
 🔗 [My Tableau Public Profile](https://public.tableau.com/app/profile/hari.ravi6514)
 
 ---
-[⬅ Previous Projects](/projects/cnn-classification)          [Next Project➡](/projects/sales-dashboard)
----
-[⬅⬅Back to All Projects](/projects)
----
+ [⬅ Previous Projects](/projects/cnn-classification)          [Next Project➡](/projects/sales-dashboard)
+
+ [⬅⬅Back to All Projects](/projects)
