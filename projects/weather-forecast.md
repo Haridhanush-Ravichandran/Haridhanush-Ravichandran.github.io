@@ -26,5 +26,7 @@ Built a **transformer-based deep learning model** for time-series weather foreca
 
 ---
 
-[⬅ Previous Projects](/projects/nesy)     [||Back to All Projects||](/projects)     [Next Project➡](/projects/cnn-classification)
-
+[⬅ Previous Projects](/projects/nesy)          [Next Project➡](/projects/cnn-classification)
+---
+[⬅⬅Back to All Projects](/projects)
+---
