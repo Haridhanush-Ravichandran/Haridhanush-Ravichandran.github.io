@@ -24,5 +24,7 @@ Developed a neuro-symbolic model on the MNIST dataset that combines **deep learn
 - [GitHub Repo](https://github.com/haridhanush-ravichandran) 
 
 ---
-
-[⬅ Back to All Projects](/projects/)        [Next Project ➡](/projects/weather-forecast)
+[⬅ Previous Projects](/projects/sales-dashboard)          [Next Project➡](/projects/weather-forecast)
+---
+[⬅⬅Back to All Projects](/projects)
+---
