@@ -34,6 +34,5 @@ Master's in Data Science, University of Padova (2024–26)
 ---
 
 [⬅ Previous Projects](/projects/weather-forecast)          [Next Project➡](/projects/hr-dashboard)
-
 [⬅⬅Back to All Projects](/projects)
 
