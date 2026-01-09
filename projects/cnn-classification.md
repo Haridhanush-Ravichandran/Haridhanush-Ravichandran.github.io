@@ -31,4 +31,4 @@ Click to download the full training and evaluation notebook:
 Master's in Data Science, University of Padova (2024–26)  
 📌 Interests: ML, DL, NLP,KRL
 
-[⬅ Back to Projects](/projects/)
+[⬅ Previous Projects](/projects/weather-forecast)     [|Back to All Projects|](/projects)     [Next Project➡](/projects/hr-dashboard)
