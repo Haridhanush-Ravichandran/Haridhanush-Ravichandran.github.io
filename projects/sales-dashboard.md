@@ -69,4 +69,7 @@ MSc Data Science, University of Padova (2024–26)
 
 ---
 
-[⬅ Back to Projects](/projects/)
+[⬅ Previous Projects](/projects/hr-dashboard)          [Next Project➡](/projects/nesy)
+---
+[⬅⬅Back to All Projects](/projects)
+---
