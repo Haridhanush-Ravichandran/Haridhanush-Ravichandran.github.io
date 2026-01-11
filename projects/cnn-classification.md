@@ -36,8 +36,4 @@ Click to download the full training and evaluation notebook:
 
 ---
 
-**Author**: Haridhanush Ravichandran  
-Master's in Data Science, University of Padova (2024–26)  
-📌 Interests: ML, DL, NLP,KRL
 
----
