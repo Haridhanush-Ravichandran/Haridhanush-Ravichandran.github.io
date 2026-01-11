@@ -61,7 +61,7 @@ This repository documents an interactive Tableau dashboard I created to explore 
 - Excel / CSV for data preparation
 
 ---
-## ✍️ Author
+## ✍️ About me
 
 **Haridhanush Ravichandran**  
 MSc Data Science, University of Padova (2024–26)  
