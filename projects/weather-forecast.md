@@ -22,7 +22,7 @@ Built a **transformer-based deep learning model** for time-series weather foreca
 
 ## 📂 Links  
 - [GitHub Repo](https://github.com/haridhanush-ravichandran)  
-- [Notebook/Demo](#)  
+
 
 ---
 
