@@ -11,13 +11,13 @@ Welcome to my CV page. You can view my CV below or download it as a PDF.
 ---
 
 ## ⬇ Download  
-[**Download My CV (PDF)**](assets/HaridhanushRaviResume.pdf)  
+[**Download My CV (PDF)**](assets/data/HaridhanushRaviResume.pdf)  
 
 ---
 
 ## 📖 Preview  
 
-<embed src="{{ '/assets/HaridhanushRaviResume.pdf' | relative_url }}" width="100%" height="800px" type="application/pdf">
+<embed src="{{ 'assets/data/HaridhanushRaviResume.pdf' | relative_url }}" width="100%" height="800px" type="application/pdf">
 
 
 ---
