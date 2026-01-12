@@ -11,13 +11,13 @@ Welcome to my CV page. You can view my CV below or download it as a PDF.
 ---
 
 ## ⬇ Download  
-[**Download My CV (PDF)**](assets/HaridhanushResume.pdf)  
+[**Download My CV (PDF)**](assets/Haridhanush_Resume.pdf)  
 
 ---
 
 ## 📖 Preview  
 
-<embed src="{{ '/assets/HaridhanushResume.pdf' | relative_url }}" width="100%" height="800px" type="application/pdf">
+<embed src="{{ '/assets/Haridhanush_Resume.pdf' | relative_url }}" width="100%" height="800px" type="application/pdf">
 
 
 ---
@@ -25,8 +25,8 @@ Welcome to my CV page. You can view my CV below or download it as a PDF.
 ## 📌 Summary (Quick Highlights)  
 
 ### 🎓 Education  
-- **M.Sc. in Data Science** — University of Padova *(2024–26)*  
-- **B.E. in [Your Undergraduate Degree]** — [Your University], [Year]  
+- **M.Sc. in Data Science** — University of Padova,Italy *(2024–26)*  
+- **B.E. in Computer Science and Engineering** — Anna University,India *(2019-2023)* 
 
 ### 💻 Skills  
 - **Languages**: Python, R, SQL  
@@ -35,10 +35,10 @@ Welcome to my CV page. You can view my CV below or download it as a PDF.
 - **Other**: Git, Docker, Linux  
 
 ### 🚀 Projects  
-- CNN Image Classification (90% accuracy on Kaggle dataset)  
-- NLP Sentiment Analyzer using Transformers  
-- Knowledge Graph Exploration with Neo4j  
-- Data Analysis Dashboard with Plotly/Dash  
+- CNN Image Classification  
+- Weather Forecasting using Transformers  
+- Neuro Symbolic Integration
+- Data Analysis Dashboard with PowerBI & Tableau  
 
 ### 🌐 Links  
 - [GitHub](https://github.com/haridhanush-ravichandran)  
